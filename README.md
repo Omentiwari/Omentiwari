@@ -17,6 +17,6 @@ I'm enthusiastically enhancing my skills in React to create modern web applicati
 Currently a Process Associate at GSS Infotech Ltd., I'm channeling my passion for web development into acquiring a comprehensive skill set. My self-driven learning and project experience reflect my determination to transition into a full-stack web developer role.
 
 📫 **How to Reach Me:**
-Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername) or drop an email at your@email.com. Whether it's discussing coding, sharing insights, or exploring potential opportunities, I'm always excited to engage.
+Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername) or drop an email at yourOmentiwari@email.com. Whether it's discussing coding, sharing insights, or exploring potential opportunities, I'm always excited to engage.
 
 Coding is not just a skill; it's my canvas for creativity and innovation! 🎨
